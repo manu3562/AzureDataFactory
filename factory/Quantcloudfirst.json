@@ -1,0 +1,9 @@
+{
+	"name": "Quantcloudfirst",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33c2329a-2755-48ab-9d63-b0c58b43ac96",
+		"tenantId": "b5282d66-60d5-43a2-b862-60325b34a0f8"
+	}
+}
